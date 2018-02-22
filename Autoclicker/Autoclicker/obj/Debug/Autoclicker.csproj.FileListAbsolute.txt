@@ -1,0 +1,10 @@
+C:\Users\znamyat\source\repos\Autoclicker\Autoclicker\bin\Debug\Autoclicker.exe.config
+C:\Users\znamyat\source\repos\Autoclicker\Autoclicker\bin\Debug\Autoclicker.exe
+C:\Users\znamyat\source\repos\Autoclicker\Autoclicker\bin\Debug\Autoclicker.pdb
+C:\Users\znamyat\source\repos\Autoclicker\Autoclicker\obj\Debug\Autoclicker.csprojResolveAssemblyReference.cache
+C:\Users\znamyat\source\repos\Autoclicker\Autoclicker\obj\Debug\Autoclicker.Form1.resources
+C:\Users\znamyat\source\repos\Autoclicker\Autoclicker\obj\Debug\Autoclicker.Properties.Resources.resources
+C:\Users\znamyat\source\repos\Autoclicker\Autoclicker\obj\Debug\Autoclicker.csproj.GenerateResource.Cache
+C:\Users\znamyat\source\repos\Autoclicker\Autoclicker\obj\Debug\Autoclicker.csproj.CoreCompileInputs.cache
+C:\Users\znamyat\source\repos\Autoclicker\Autoclicker\obj\Debug\Autoclicker.exe
+C:\Users\znamyat\source\repos\Autoclicker\Autoclicker\obj\Debug\Autoclicker.pdb
