@@ -26,14 +26,21 @@ namespace Autoclicker
         private const int MOUSEEVENTF_RIGHTDOWN = 0x08;
         private const int MOUSEEVENTF_RIGHTUP = 0x10;
 
-        bool isPressed = false;
+        public bool isPressed = false;
 
-        static void Clicker()
+        public static void Clicker()
         {
             System.Threading.Thread.Sleep(1000);
             SetCursorPos(MousePosition.X, MousePosition.Y);
             mouse_event(MOUSEEVENTF_LEFTDOWN, MousePosition.X, MousePosition.Y, 0, 0);
             mouse_event(MOUSEEVENTF_LEFTUP, MousePosition.X, MousePosition.Y, 0, 0);
+        }
+
+        public static void StartClicking()
+        {
+            Thread newThread = new Thread(Clicker);
+            newThread.Start();
+            newThread.Abort();
         }
 
         public Form1()
@@ -50,19 +57,18 @@ namespace Autoclicker
         {
             Button thisButton = (Button)sender;
 
-            switch(thisButton.Name)
+            while (isPressed == true)
+            {
+                StartClicking();
+            }
+
+            switch (thisButton.Name)
             {
                 case "StartButton":
                     Dur.SelectedIndex = 0;
                     thisButton.Name = "StopButton";
                     thisButton.Text = "Stop";
                     isPressed = true;
-                    while (isPressed == true)
-                    {
-                        //DO NOT START PROGRAM. IT WILL FUCK YOU
-                        //Thread t = new Thread(Clicker);
-                        //t.Start();
-                    }
                     break;
 
                 case "StopButton":

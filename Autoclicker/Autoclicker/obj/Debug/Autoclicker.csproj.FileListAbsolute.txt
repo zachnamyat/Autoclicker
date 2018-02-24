@@ -8,3 +8,13 @@ C:\Users\znamyat\source\repos\Autoclicker\Autoclicker\obj\Debug\Autoclicker.cspr
 C:\Users\znamyat\source\repos\Autoclicker\Autoclicker\obj\Debug\Autoclicker.csproj.CoreCompileInputs.cache
 C:\Users\znamyat\source\repos\Autoclicker\Autoclicker\obj\Debug\Autoclicker.exe
 C:\Users\znamyat\source\repos\Autoclicker\Autoclicker\obj\Debug\Autoclicker.pdb
+C:\Users\zachary\Desktop\Autoclicker\Autoclicker\bin\Debug\Autoclicker.exe.config
+C:\Users\zachary\Desktop\Autoclicker\Autoclicker\bin\Debug\Autoclicker.exe
+C:\Users\zachary\Desktop\Autoclicker\Autoclicker\bin\Debug\Autoclicker.pdb
+C:\Users\zachary\Desktop\Autoclicker\Autoclicker\obj\Debug\Autoclicker.csprojResolveAssemblyReference.cache
+C:\Users\zachary\Desktop\Autoclicker\Autoclicker\obj\Debug\Autoclicker.Form1.resources
+C:\Users\zachary\Desktop\Autoclicker\Autoclicker\obj\Debug\Autoclicker.Properties.Resources.resources
+C:\Users\zachary\Desktop\Autoclicker\Autoclicker\obj\Debug\Autoclicker.csproj.GenerateResource.Cache
+C:\Users\zachary\Desktop\Autoclicker\Autoclicker\obj\Debug\Autoclicker.csproj.CoreCompileInputs.cache
+C:\Users\zachary\Desktop\Autoclicker\Autoclicker\obj\Debug\Autoclicker.exe
+C:\Users\zachary\Desktop\Autoclicker\Autoclicker\obj\Debug\Autoclicker.pdb
